@@ -115,7 +115,7 @@ a.git {
 
 
 @media (max-width: 600px) {
-    nav ul li {
+    *{
         display: block;
         margin: 10px 0;
     }
